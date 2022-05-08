@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7a20e62e671c5c1c89a2566775a02c5f2aeb9a39.jar" />
+    </item>
+    <item
+        jar="/home/reeva/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-622d0dffd76217e0445babb1607331e9ae1b6998.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat/facebookSDK/unspecified/jars/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-31cb11d2fc023c84c90c64ca3f7577d68a5638a1.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/libs/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpclient-4.3.6-9323d6379f8e62422a6dc648add30dc24a356758.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-49192f9a4dff63dceadfdd19c2fe863992fb2e46.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eecb2f0a072886b4fdfcbb132014bc02d2eaec9c">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-6e3d3de9b585b2ed1d5e8c79d8f9ef15785dbc2f.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/libs/Shutterbug-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a8cddf69c52e040ba2ba1dbf9cc9404b083bd351">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/Shutterbug-1.0.0-091695201c3730ebeeb621913c973fbaf9e7d555.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/libs/httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpmime-4.3.6-8626c65ddacee80f71a5e35ebaaeedd0d69d08de.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-33be0b9f98c8c02eb7825e65061700dd3fc49c01.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/libs/httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/httpcore-4.3.3-28184234a991fe4aba331fcf3a6e131de080b43c.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-618f4b7c1b236c079539cfc1fe9d2f7661b724a5.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/exploded-aar/FortinGCMCHat/facebookSDK/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="947c13344d6a2281f490e523f5572f1954f8028d">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-f0f41c19591ec2b1d17f4601416d07b19339de57.jar" />
+    </item>
+    <item
+        jar="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/reeva/Desktop/FortinGCMCHat/fortinGCMCHat/build/intermediates/pre-dexed/debug/classes-b36804832529ab81573e41fce95052fa82a8645a.jar" />
+    </item>
+
+</items>
